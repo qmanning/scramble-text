@@ -55,3 +55,7 @@ Built on [Text Scramble Effect](https://codepen.io/soulwire/pen/mErPAK) by Justi
 ## License
 
 MIT.
+
+---
+
+Made by [Q Manning](https://qmanning.com) · [Source on GitHub](https://github.com/qmanning/scramble-text) · [See it live in the Labs](https://qmanning.com/labs/scramble-text)
